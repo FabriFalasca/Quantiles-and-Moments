@@ -1,6 +1,6 @@
 # Exploring the non-stationarity of coastal sea level probability distributions
 
-Fabrizio Falasca, Andrew Brettin, Laure Zanna, Stephen M. Griffies, Jianjun Yin, Ming Zhao. Paper in https://arxiv.org/abs/2211.04608
+Fabrizio Falasca, Andrew Brettin, Laure Zanna, Stephen M. Griffies, Jianjun Yin, Ming Zhao. Paper in https://doi.org/10.1017/eds.2023.10
 
 Contact: Fabrizio Falasca (fabri.falasca@nyu.edu)
 
